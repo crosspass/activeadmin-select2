@@ -6,7 +6,7 @@ require 'activeadmin/select2/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "activeadmin-select2"
-  spec.version       = ActiveAdmin::Select2::VERSION
+  spec.version       = "0.1.8"
   spec.summary       = %q{Incorporate Select2 jquery into ActiveAdmin}
   spec.description   = %q{With ActiveAdmin-Select2 you are able to chose Select2 as a drop-down entry option in Forms and Filters}
   spec.license       = "MIT"
